@@ -15,7 +15,6 @@ import math
 interval = 30 # set interval in seconds
 deviceId = '' # same as in register.py
 url = '' # https://CLOUD.MYCLOUD.XYZ/index.php/apps/sensorlogger/api/v1/createlog/ -> NOTE: SLASH AT THE END is necessary
-headers = {'content-type': 'application/json'}
 
 # Which sensor do you want to use?
 sensor = Adafruit_DHT.DHT22
