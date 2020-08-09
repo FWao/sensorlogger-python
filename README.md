@@ -1,2 +1,2 @@
 # sensorlogger-python
-Nextcloud / Owncloud sensorlogger python example script.
+Nextcloud / Owncloud sensorlogger python example script
